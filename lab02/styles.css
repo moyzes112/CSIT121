@@ -1,0 +1,13 @@
+body {
+	background-color: teal;
+}
+
+h1 {
+	color:#fff;
+}
+h2 {
+	color:yellow;
+	font-style: italic;
+	text-transform: capitalize;
+}
+/* This is comment */
